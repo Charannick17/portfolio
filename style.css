@@ -1,0 +1,190 @@
+.top-container
+{
+    background-color:#EFFFFD;
+    
+   
+   
+    position: relative;
+    padding-top: 50px;
+
+}
+
+.top-bird
+{
+   
+    position: absolute;
+    right :350px;
+    
+   top :20px;
+   height :100px;
+   width:150px
+    
+   
+    
+   
+}
+p{
+    font-family: "Merriweather", serif;
+}
+
+h1{ /*display: flex;
+    flex: wrap;
+    font-family: "Sacramento", cursive;
+    font-size: 50px;
+  
+    margin :50px auto 0 auto; */
+    color: #66bfbf;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: "Sacramento", cursive;
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+   align-items: center;
+
+
+   
+    
+}
+h2
+{  
+    color: #66bfbf;
+    
+   display :flex;
+   justify-content: center;
+   align-items: center;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+   
+    font-family:sans-serif;
+    position: relative;
+    bottom :50px;
+   
+
+ 
+    
+}
+.bottom-bird
+{
+   position: absolute;
+   left :200px;
+   bottom: 190px;
+  
+   
+   height :100px;
+   width:150px;
+   padding-bottom: 50px;
+    
+}
+.hill
+{   height: 250px;
+    position: relative;
+    top:5px;
+    left :38%;
+    
+}
+.mine
+{
+    height :140px;
+    
+    border-radius: 100%;
+    border : 2px solid black;
+    position: relative;
+    top :50px;
+    right :45px;
+    margin-top :50px
+
+   
+}
+.text
+{
+  
+  position: relative;
+
+  text-align: center;
+  top :25px;
+  right: 25px;
+}
+#p1
+    
+   {
+    border: 1px solid white;
+    width :500px ;
+    height: 200px;
+     position: relative;
+     left :30%;
+    
+    padding-top :10px;
+   }
+.skills{
+    padding-top: 150px;
+    
+}
+.table
+{
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns:0.5fr 1fr;
+    position: relative;
+    left :150px; 
+   
+}
+
+
+body{
+    text-align: center;
+    justify-content: center;
+}
+h3{
+    color: #66bfbf;
+    font-family:sans-serif;
+    padding-bottom:px;
+    float: left;
+
+}
+.ai >img
+{
+    width :200px;
+    height: 200px;
+    float: right;
+    
+}
+.music >img
+{
+    width :200px;
+    height: 200px;
+    margin-top: 15px;
+    border-radius: 70%;
+    float: right;
+    
+}
+.table p{
+    
+ 
+    max-width: 500px;
+   
+  
+    margin-bottom: 100px;
+    margin-top: 50px;
+   
+  
+    text-align: left;
+   
+   
+   
+}
+.footer
+{
+    background-color: aqua;
+    font-weight: 900;
+    padding: 50px;
+    
+    
+}
+
+
+   
+    
+
+
+
